@@ -1,4 +1,4 @@
-test-github-pages
-=================
+Testing GitHub Pages
+====================
 
-Just na tester for hot Github pages work
+Just a tester for how Github pages work.
